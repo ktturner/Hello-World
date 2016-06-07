@@ -1,5 +1,3 @@
 I am adding some changes to this text. Now it is time to practice with git.
 
 Making some changes to this file so I can practice with git.
-
-THIS IS A BIG MESS!
