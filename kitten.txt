@@ -1,1 +1,3 @@
 I am adding some cool text to this file. Now it is time to practice with git.
+
+Making some changes to this file so I can practice with git. 
