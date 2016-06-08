@@ -1,4 +1,4 @@
-Trying to create a conflict.
+Trying to create a conflict. 
 
 I am adding some changes to this text. Now it is time to practice with git.
 
